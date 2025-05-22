@@ -1,0 +1,150 @@
+Q: How do I track my order?
+A: You can track your order using the tracking link provided in your email.
+
+Q: What is your refund policy?
+A: Refunds are processed within 5-7 business days after approval.
+
+Q: How can I contact customer support?
+A: You can reach us via email at support@example.com or call 1800-123-456.
+
+Q: How do I reset my password?
+A: Click on 'Forgot Password' on the login page and follow the instructions.
+
+Q: Do you offer international shipping?
+A: Yes, we offer international shipping to over 50 countries.
+
+Q: How long does delivery take?
+A: Delivery usually takes 3-5 business days.
+
+Q: Can I change my delivery address after placing the order?
+A: Yes, contact support within 12 hours to change the delivery address.
+
+Q: Do you offer same-day delivery?
+A: Same-day delivery is available in select cities for orders placed before noon.
+
+Q: What payment methods do you accept?
+A: We accept credit cards, debit cards, PayPal, and UPI.
+
+Q: Is it safe to shop on your website?
+A: Yes, our website uses SSL encryption to ensure secure transactions.
+
+Q: Can I cancel my order?
+A: Orders can be cancelled within 1 hour of placement from your account dashboard.
+
+Q: How do I apply a discount code?
+A: You can apply a discount code at checkout in the promo code field.
+
+Q: Why was my payment declined?
+A: Payments may fail due to incorrect details or bank issues. Try again or use another method.
+
+Q: What is your return policy?
+A: Returns are accepted within 15 days of delivery for unused items.
+
+Q: Will I get a refund for returned items?
+A: Yes, after inspection, refunds are initiated to your original payment method.
+
+Q: What if the item I receive is damaged?
+A: If the item is damaged, contact support within 48 hours with photos.
+
+Q: Do you restock sold-out items?
+A: Some items are restocked; check the product page for updates.
+
+Q: Can I pre-order items?
+A: Yes, pre-orders are available for select upcoming products.
+
+Q: How do I subscribe to your newsletter?
+A: Enter your email at the bottom of our homepage to subscribe.
+
+Q: Do you offer gift cards?
+A: Yes, digital gift cards are available in multiple denominations.
+
+Q: How do I use a gift card?
+A: Enter the gift card code during checkout in the payment section.
+
+Q: Can I request a product demo?
+A: Yes, schedule a demo via our support team or product page.
+
+Q: What is your exchange policy?
+A: Items can be exchanged within 15 days for size or color changes.
+
+Q: Are there any membership benefits?
+A: Members enjoy early access to sales, exclusive offers, and free shipping.
+
+Q: How do I deactivate my account?
+A: Contact support to request account deactivation.
+
+Q: Do you have a mobile app?
+A: Yes, our app is available on both iOS and Android platforms.
+
+Q: How do I update my email address?
+A: Go to your profile settings and edit your email address.
+
+Q: What is your privacy policy?
+A: Read our detailed privacy policy on the legal section of our site.
+
+Q: Can I change items in my order?
+A: Orders cannot be modified once placed. You can cancel and reorder.
+
+Q: Do you offer student discounts?
+A: Yes, verified students receive a 10% discount.
+
+Q: How do I verify my student status?
+A: Upload your student ID or use a verification portal at checkout.
+
+Q: What is your loyalty program?
+A: Earn points on purchases which can be redeemed for discounts.
+
+Q: How do I redeem loyalty points?
+A: Apply available points at checkout from your profile dashboard.
+
+Q: What are your working hours?
+A: Customer service is available from 9 AM to 9 PM, Monday to Saturday.
+
+Q: Are there any seasonal sales?
+A: Yes, we offer discounts during major festivals and end-of-season sales.
+
+Q: Can I get an invoice for my purchase?
+A: Invoices are automatically sent via email after purchase.
+
+Q: Is COD (Cash on Delivery) available?
+A: Yes, COD is available for orders under ₹5000.
+
+Q: How do I change my password?
+A: Log in, go to settings, and choose 'Change Password'.
+
+Q: What is your cancellation policy?
+A: Orders can be cancelled before shipment for a full refund.
+
+Q: How do I track my refund status?
+A: Refund status is available in the Orders section of your profile.
+
+Q: Are bulk orders allowed?
+A: Yes, bulk orders are supported. Contact support for custom quotes.
+
+Q: Do you ship to rural areas?
+A: Yes, we deliver to most pin codes across India, including rural areas.
+
+Q: How do I report a bug?
+A: Email us at bugs@example.com with details and screenshots.
+
+Q: What is your warranty policy?
+A: Products come with a standard 1-year warranty unless stated otherwise.
+
+Q: How do I leave a review?
+A: Go to the product page and click on 'Write a Review'.
+
+Q: Can I buy now and pay later?
+A: Yes, we offer EMI and Pay Later options through partner services.
+
+Q: What happens if my package is lost?
+A: We will investigate and re-ship or refund if confirmed lost.
+
+Q: Can I pause my subscription?
+A: Yes, you can pause and resume subscriptions from your dashboard.
+
+Q: Do you offer installation services?
+A: Yes, installation can be scheduled during or after delivery for applicable products.
+
+Q: How do I unsubscribe from emails?
+A: Click the 'Unsubscribe' link at the bottom of any email.
+
